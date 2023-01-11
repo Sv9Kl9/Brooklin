@@ -877,7 +877,7 @@ font-stretch: 130;
 .team__marquee-reverse-text{
   display: flex;
   width: 200%;
-  animation: marquee-text-reverse 10s linear infinite;
+  animation: marquee-text-reverse 10s linear infinite; 
 }
 
 .team__marquee-reverse-text h6{
@@ -1377,7 +1377,7 @@ font-stretch: 130;
   display: flex;
   gap: 20px;
   width: 200%;
-  animation: rolling-line 10s linear infinite;
+  animation: rolling-line 15s linear infinite;
 }
 
 .better__line-wrapper h6{
